@@ -1,0 +1,11 @@
+{
+	"autoload": {
+		"psr-4": {
+			"app\\": "app"
+		}
+	},
+	"require": {
+		"vlucas/phpdotenv": "^5.1",
+		"monolog/monolog": "^2.1"
+	}
+}
